@@ -1,0 +1,21 @@
+/* Estilos de form*/
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 1%;
+}
+label{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1%;
+}
+input{
+    margin-top: 0.5%;
+    width: 200px;
+    border-radius: 10px;
+}
+textarea{
+    margin-top: 0.5%;
+    width: 200px;
+    border-radius: 10px;
+}
